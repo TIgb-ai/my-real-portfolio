@@ -368,7 +368,7 @@ img{
 .skills__icon{
   font-size: 1.5rem;
   margin-right: var(--mb-2);
-  color: #ffff;
+  color: #fff;
 }
 .skills__names{
   display: flex;
@@ -383,20 +383,17 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
-.skills__python{
-  width:85%;
+.skills__html{
+  width:55%;
 }
-.skills__unity{
-  width: 65%;
+.skills__css{
+  width: 45%;
 }
 .skills__js{
   width: 45%;
 }
-.skills__discord{
-  width: 93%;
-}
-.skills__life{
-  width: 17%;
+.skills__ux{
+  width: 10%;
 }
 .skills__img{
   border-radius: .5rem;
