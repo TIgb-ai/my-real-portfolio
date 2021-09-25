@@ -368,7 +368,7 @@ img{
 .skills__icon{
   font-size: 1.5rem;
   margin-right: var(--mb-2);
-  color: #fff;
+  color: #ffff;
 }
 .skills__names{
   display: flex;
@@ -393,7 +393,7 @@ img{
   width: 45%;
 }
 .skills__discord{
-  width: 92%;
+  width: 93%;
 }
 .skills__life{
   width: 17%;
