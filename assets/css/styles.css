@@ -383,17 +383,20 @@ img{
   border-radius: .5rem;
   z-index: var(--z-back);
 }
-.skills__html{
-  width:55%;
+.skills__python{
+  width:85%;
 }
-.skills__css{
-  width: 45%;
+.skills__unity{
+  width: 65%;
 }
 .skills__js{
   width: 45%;
 }
-.skills__ux{
-  width: 10%;
+.skills__discord{
+  width: 92%;
+}
+.skills__life{
+  width: 17%;
 }
 .skills__img{
   border-radius: .5rem;
