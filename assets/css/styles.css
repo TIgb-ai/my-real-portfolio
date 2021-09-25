@@ -8,8 +8,8 @@
 
 /*===== Colores =====*/
 :root{
-  --first-color: random;
-  --second-color: random;
+  --first-color: #1577d3d7;
+  --second-color: #000016;
 }
 
 nav ul {
