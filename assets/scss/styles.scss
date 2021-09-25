@@ -302,17 +302,20 @@ img{
         border-radius: .5rem;
         z-index: var(--z-back);
     }
-    &__html{
-        width: 95%;
-    }
-    &__css{
+    &__python{
         width: 85%;
+    }
+    &__unity{
+        width: 65%;
     }
     &__js{
         width: 65%;
     }
-    &__ux{
-        width: 85%;
+    &__discord{
+        width: 92%;
+    }
+    &__life{
+        width: 17%;    
     }
     &__img{
         border-radius: .5rem;
